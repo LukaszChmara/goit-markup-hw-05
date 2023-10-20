@@ -172,10 +172,7 @@ body {
         0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
 }
 
-.portfolio-images-link:hover .portfolio-boxes-description {
-    transform: translateY(0%);
-}
-
+.portfolio-images-link:hover .portfolio-boxes-description,
 portfolio-images-link:focus .portfolio-boxes-description {
     transform: translateY(0%);
 }
