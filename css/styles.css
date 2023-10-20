@@ -173,7 +173,7 @@ body {
 }
 
 .portfolio-images-link:hover .portfolio-boxes-description,
-portfolio-images-link:focus .portfolio-boxes-description {
+.portfolio-images-link:focus .portfolio-boxes-description {
     transform: translateY(0%);
 }
 
